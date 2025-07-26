@@ -1,4 +1,4 @@
-# 📊 Computer Science Jobs - Data Science Project (Internshala)
+# 📊 Computer Science Jobs - Data Science Project
 
 This project presents an end-to-end data science workflow applied to job listings from **Internshala**, specifically for **Computer Science** and **Data Science** roles. It covers **web scraping**, **data cleaning**, **exploratory data analysis (EDA)**, and **visualization** to gain insights into job trends, preferred skills, and work locations.
 
