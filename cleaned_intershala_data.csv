@@ -1,0 +1,1002 @@
+Title,Company,Location,Cleaned_Salary,Time (days ago),Cleaned_Experience (Years)
+.NET Developer,Sped@home,Mumbai,275000,7,1
+Associate Software Developer,Design Centric,Navi Mumbai,359000,21,1
+Associate Software Developer,Design Centric, Mumbai,359000,21,1
+Founders Office,Curious About Sales,Nagpur,325000,3,0
+3D Artist & VFX Artist,Connex India,Delhi,220000,5,1
+3D Artist & VFX Artist,Connex India, Gurgaon,220000,5,1
+3D Artist & VFX Artist,Connex India, Noida,220000,5,1
+STEM Innovation Engineer/Mentor,Stemmantra Technologies Private Limited,Delhi,266750,14,0
+STEM Innovation Engineer/Mentor,Stemmantra Technologies Private Limited, Gurgaon,266750,14,0
+STEM Innovation Engineer/Mentor,Stemmantra Technologies Private Limited, Hyderabad,266750,14,0
+IOS Developer,Quantta Analytics,Kolkata,300000,0,1
+Junior Web Developer,Educase India,Hyderabad,300000,0,0
+Assistant IT Support Engineer,Quantta Analytics,Kolkata,300000,1,1
+App Test Engineer & Navigation Expert,Quantta Analytics,Kolkata,300000,1,1
+Full Stack Developer,ONE XL INFO LLP,Pune,420000,1,1
+React Developer,ONE XL INFO LLP,Pune,420000,1,1
+PHP Developer,NexGen Innovators IT Services Private Limited,Delhi,480000,1,1
+Senior Information Technology Engineer,AKSI AEROSPACE,Telangana,200000,7,1
+Senior Information Technology Engineer,AKSI AEROSPACE, Andhra Pradesh,200000,7,1
+React JS Developer,Infoware,Ahmedabad,375000,7,1
+React JS Developer,Infoware, Gandhinagar,375000,7,1
+.NET Developer,Quantasis Private Limited,Mumbai,235000,5,1
+Junior Software Developer (Females Only),Makworth Finserv,Surat,415000,6,1
+IOS Developer,AppVersal,Noida,350000,0,1
+Junior Network Engineer,Weekday,Mumbai,360000,14,1
+Trainee Engineer,Prolegion Pvt. Ltd.,Chennai,220000,1,1
+PHP Developer,Reliable Solution,Surat,400000,1,1
+Senior Front End Developer,Com.Bot,Surat,280000,1,1
+Robotics STEM Trainer (For Schools),Qlearncept,Zaheerabad,280000,5,0
+Robotics STEM Trainer (For Schools),Qlearncept, Hyderabad,280000,5,0
+Robotics STEM Trainer (For Schools),Qlearncept, Achampet,280000,5,0
+Full Stack Developer,Yasham Software Services Private Limited,Panna,200000,21,0
+Full Stack Developer,Yasham Software Services Private Limited, Raigarh,200000,21,0
+Full Stack Developer,Yasham Software Services Private Limited, Durg,200000,21,0
+Full Stack Developer,Yasham Software Services Private Limited, Balod,200000,21,0
+Full Stack Developer,Yasham Software Services Private Limited, Raipur,200000,21,0
+Full Stack Developer,Yasham Software Services Private Limited, Korba,200000,21,0
+Full Stack Developer,Yasham Software Services Private Limited, Bastar,200000,21,0
+Full Stack Developer,Yasham Software Services Private Limited, Jashpur,200000,21,0
+Full Stack Developer,Yasham Software Services Private Limited, Sukma,200000,21,0
+Full Stack Developer,Yasham Software Services Private Limited, Surguja,200000,21,0
+Full Stack Developer,Yasham Software Services Private Limited, Bijapur,200000,21,0
+Full Stack Developer,Yasham Software Services Private Limited, Surjanpur,200000,21,0
+Full Stack Developer,Yasham Software Services Private Limited, Atal Nagar,200000,21,0
+Full Stack Developer,Yasham Software Services Private Limited, Seoni,200000,21,0
+CCNA Faculty Trainer,Hinisys Software,Chennai,210000,21,1
+Associate Professor,Coding Junior,Ahmedabad,450000,3,0
+Full Stack Blockchain Trainer,QuadB Tech,Ludhiana,600000,2,1
+Senior Flutter Developer,Cosmos Staffing Solutions,Hyderabad,220000,7,1
+.NET Developer,Quantasis Private Limited,Mumbai,1255000,21,1
+Technical Support Specialist,Shiva Systems & Technologies Private Limited,Mumbai,370000,14,1
+Senior WordPress Developer,Innovate Content,Mumbai,250000,21,1
+ASP.NET Core Full Stack Developer,Anjita IT Solutions Private Limited,Mumbai,242000,21,1
+Computer Training & Data Science Faculty,DeveLearn Technologies,Mumbai,600000,4,1
+PHP Developer,ONE XL INFO LLP,Pune,330000,14,1
+Junior Backend Developer,Educase India,Hyderabad,300000,0,0
+Junior Robotics Specialist,IBA - The Robotized World,Ahmedabad,200000,0,1
+Junior Robotics Specialist,IBA - The Robotized World, Vadodara,200000,0,1
+Junior Robotics Specialist,IBA - The Robotized World, Surat,200000,0,1
+Junior .NET Developer,Creations Overseas,Secunderabad,280000,0,0
+Junior .NET Developer,Creations Overseas, Hyderabad,280000,0,0
+Android Developer,Frontlink Technology,Surat,200000,0,0
+WordPress Developer,I-SmokeStack,Work from home,300000,0,1
+Full Stack Developer,Ergosphere Solution Pvt Ltd.,Work from home,990000,0,1
+Back-End Executive,Eviosys,Work from home,550000,1,0
+Junior Front End Developer,TheCoinRepublic,Bhopal,300000,1,1
+WordPress Developer,Hello Technologies,Madurai,325000,1,1
+Integration Engineer,OneFin,Bangalore,400000,1,0
+Full Stack Developer,Com.Bot,Surat,280000,1,1
+Backend Developer,OneFin,Bangalore,600000,1,1
+Software Developer,NERVESPARKS INDIA PVT LTD,Delhi,600000,1,0
+Software Tester,FreJun Incorporation,Work from home,450000,1,1
+Fresher-Salesforce Developer/Administrator,Softsensor.ai,Work from home,400000,1,0
+Computer Operator Executive,Peerpoint,Work from home,550000,1,0
+Full Stack Developer,EtherWorld,Work from home,600000,1,1
+Full Stack Developer,IESoft Technologies Private Limited,Work from home,450000,1,0
+PHP Developer,Pineapple By Ele,Mumbai,250000,1,1
+IT Support,H&M Virtual Services Private Limited,Vadodara,270000,2,0
+Front End Developer,Stirring Minds,Delhi,250000,2,1
+Game Developer,ActiveLoc,Work from home,360000,2,1
+Junior Software Developer,Spotmies LLP,Anakapalli,1600000,2,0
+Software Developer,Finvin Estatedeal,Work from home,280000,2,1
+Customer Support Executive,Yew Enterprises,Bahadurgarh,200000,2,0
+Customer Support Executive,Yew Enterprises, Delhi,200000,2,0
+Junior Python Developer,Crozair Technicea,Mumbai,450000,2,1
+"Junior Fullstack Developer - Node.js, Flutter",Behind The Scene Apps,Thiruvananthapuram,250000,2,0
+Backend Developer,Nexsphere,Work from home,275000,2,1
+Design & Quality Engineer,Chandra Pumps Private Limited,Meerut,247500,3,0
+Python Full Stack Trainer,Login360,Chennai,250000,3,1
+Website & Backend Development Executive,ARMII,Work from home,300000,3,1
+MERN Stack Developer,Sacesta Technologies,Ahmedabad,300000,3,1
+Android App Developer,Anytimeinvest Services Private Limited,Delhi,450000,3,1
+Junior System Administrator (Quality Assurance),YouWin Technologies,Work from home,210000,3,1
+Senior Front End Developer,Creatiwise,Work from home,390000,3,1
+"Developer – Python, AI & ML",Good Blogger,Noida,250000,3,1
+Full Stack Developer,Know Thy Choice,Work from home,700000,3,1
+Coding & AI Teacher,SR Edu Technologies,Hyderabad,270000,3,0
+Coding & AI Teacher,SR Edu Technologies, Bhuvanagiri,270000,3,0
+Mobile App Developer,Jina Code Systems LLP,Gurgaon,440000,3,1
+Moodle LMS Developer,Offiql Technologies Private Limited,Bangalore,600000,3,1
+Computer Operator Associate,Peerpoint,Work from home,550000,3,0
+Digital Marketing Associate,Panache Solutions,Work from home,240000,3,1
+System Engineer,Ether Daylight Systems Pvt. Ltd.,Bangalore,240000,4,0
+Junior Software Developer,Axe Consultancy And Security Services LLC,Work from home,800000,4,0
+Python Developer,Clump Coder,Work from home,200000,4,1
+Full Stack Developer,Bentex Group,Work from home,450000,4,1
+Full Stack Developer,Eleven Software Solution Private Limited,Hyderabad,200000,4,0
+Web Developer,Benetor's,Work from home,235000,4,1
+Robotics And Coding Teacher,Amazeheads LLP,Darjeeling,300000,4,0
+Junior Content Writer,RecurPost Inc.,Surat,225000,4,0
+Python Developer,Allied Infoline Private Limited,South,365000,4,0
+Quality Analyst,Softcell Technologies Limited,Thane,200000,4,0
+Quality Analyst,Softcell Technologies Limited, Navi Mumbai,200000,4,0
+Quality Analyst,Softcell Technologies Limited, Kalyan,200000,4,0
+Quality Analyst,Softcell Technologies Limited, Mumbai,200000,4,0
+PHP Developer,WES Consultancy & Services Private Limited,Raipur,240000,4,1
+Digital Marketing Executive,SMR Securities,Gurgaon,220000,4,1
+Software Development (Instructor),NxtWave,Hyderabad,200000,4,1
+Business Analyst,Solstice Veridian Services,Chandigarh,300000,4,1
+Business Analyst,Solstice Veridian Services, Kharar,300000,4,1
+Business Analyst,Solstice Veridian Services, Mohali,300000,4,1
+Business Analyst,Solstice Veridian Services, Panchkula,300000,4,1
+Back End Executive,Peerpoint,Work from home,550000,4,0
+Associate Software Engineer,Kanerika Software Private Limited,Hyderabad,500000,4,0
+Coding Instructor,Codeshala Private Limited,Work from home,215500,4,0
+Associate Software Developer,Benepik,Gurgaon,360000,4,1
+Principal Java Engineer,Kanerika Software Private Limited,Hyderabad,3100000,4,1
+IPQA,Salus Pharmaceutical,Baddi,430000,5,1
+Senior Backend Developer,AMIT SINGH,Work from home,500000,5,1
+Technical Product Manager,BlackLight Studio Works,Delhi,400000,5,0
+Technical Product Manager,BlackLight Studio Works, Gurgaon,400000,5,0
+Technical Product Manager,BlackLight Studio Works, Noida,400000,5,0
+Cloud Computing Specialist,INSTAGURU PRIVATE LIMITED,Work from home,200000,5,1
+Junior Backend Developer,Hustlr Staffing Services,Lucknow,375000,5,1
+Junior SAP ABAP Developer,Hustlr Staffing Services,Lucknow,1015000,5,1
+Associate Full Stack Developer,Kradle Joy (OPC) Private Limited,Noida,815000,5,1
+IOS Developer | SwiftUI/Swift | Flutter | Mobile App Developer | Python Developer,BZness LLC,Work from home,415000,5,1
+PHP Developer,P R Digitals,Jaipur,540000,5,1
+Tech Trainer,ENpower,Gujarat,212505,6,0
+Full Stack Developer,Anansi Tech Private Limited,Rajkot,240000,6,0
+Front End Developer,AY Technologies,Delhi,350000,6,1
+SAP BASIS Trainee,Waddaya Solutions Private Limited,Delhi,286000,6,0
+Junior Software Developer,OmniHabits.com,Work from home,250000,6,1
+Business Development Executive,Aaptatt,Delhi,475000,6,0
+Business Development Executive,Aaptatt, Gurgaon,475000,6,0
+Business Development Executive,Aaptatt, Noida,475000,6,0
+Junior Full Stack Developer,BXP Support And Solutions Private Limited,Bangalore,325000,6,0
+Shopify Developer,Growify Digital,Delhi,250000,6,1
+Junior Web Developer,MediaCom India,Work from home,650000,6,0
+Junior Software Developer,MediaCom India,Work from home,650000,6,0
+Junior Software Tester,MediaCom India,Work from home,650000,6,0
+Junior Full Stack Developer,TeamUp Consultants,Salem,200000,7,0
+Fullstack Developer (NestJS + Next.js + Node.js + MongoDB),SeekHelpers,Work from home,330000,7,1
+Front End Developer,Okie Dokie Solutions LLP,Work from home,425000,7,0
+Junior Full Stack Developer,DeepNexus.in,Work from home,625000,7,1
+Product Executive,Voyage Robotics Private Limited,Nagpur,200000,7,0
+Senior Web Developer,Technofra,Mumbai,225000,7,1
+Backend Developer,BLUECS.IN,Work from home,300000,7,1
+Product Analyst,Sharpsell Technology Solutions,Bangalore,500000,7,0
+Junior Web Developer,Sped@home,Mumbai,400000,7,1
+Flutter Mobile Developer,SeekHelpers,Work from home,330000,7,1
+Full Stack Developer,Bryckel AI,Work from home,950000,7,1
+AI/Prompt Engineer,DeepNexus.in,Work from home,675000,7,0
+.NET Developer,Efox Technologies Private Limited,Bareilly,225000,7,0
+Full Stack Developer,KubeFlux,Work from home,581000,7,1
+Full Stack Developer,LeadPro,Chennai,410000,7,1
+Full Stack Developer,LeadPro, Bangalore,410000,7,1
+Embedded Systems Associate,Renify Technologies Private Limited,Anekal,600000,7,1
+Associate Android App Developer,ASW Digital Marketing Services,Hyderabad,325000,7,1
+Full Stack Developer,RethinkingWeb,Vadodara,300000,7,1
+Full Stack - Python And REACT,Tandem Consulting Group,Chennai,500000,7,1
+Linnux Admin,ServerGuy,Noida,300000,7,1
+Android App Developer,PrimeWebDynamics,Agra,225000,7,0
+Senior Full Stack Developer,Tanika Tech Jewels Private Limited,Mira Bhayandar,500000,7,1
+Senior Full Stack Developer,Tanika Tech Jewels Private Limited, Mumbai,500000,7,1
+Associate Software Tester,Regime Tax Solutions Private Limited,Navi Mumbai,575000,7,1
+Associate Software Tester,Regime Tax Solutions Private Limited, Mumbai,575000,7,1
+Node.js/MySQL Developer,FlexiEle Consulting Services Private Limited,Work from home,450000,7,0
+Information Technology Engineer,Shubh Enterprises,Dehradun,250000,7,1
+Artificial Intelligence (AI) Specialist,ZAi-Fi,Work from home,210000,7,1
+PHP Developer,Pratithi Finance,Kolkata,200000,7,0
+Senior PHP Developer,InstaWeb Labs Private Limited,Mumbai,700000,7,1
+Node.js Developer,Infoware,Ahmedabad,450000,7,1
+Node.js Developer,Infoware, Gandhinagar,450000,7,1
+Flutter Developer,Infoware,Ahmedabad,450000,7,1
+Flutter Developer,Infoware, Gandhinagar,450000,7,1
+iOS App Developer,InstaWeb Labs Private Limited,Mumbai,500000,7,1
+Junior PHP Developer,Ele Market Place Technologies,Thane,210000,7,0
+Junior PHP Developer,Ele Market Place Technologies, Mumbai,210000,7,0
+Robotics Trainer,Techyguide OPC Private Limited,Bikaner,225000,7,0
+Robotics Trainer,Techyguide OPC Private Limited, Delhi,225000,7,0
+Robotics Trainer,Techyguide OPC Private Limited, Dhanbad,225000,7,0
+Robotics Trainer,Techyguide OPC Private Limited, Ranchi,225000,7,0
+Robotics Trainer,Techyguide OPC Private Limited, Nagaur,225000,7,0
+Robotics Trainer,Techyguide OPC Private Limited, Balasore,225000,7,0
+Robotics Trainer,Techyguide OPC Private Limited, Jaipur,225000,7,0
+Robotics Trainer,Techyguide OPC Private Limited, Lakhimpur Kheri,225000,7,0
+Robotics Trainer,Techyguide OPC Private Limited, Bangalore,225000,7,0
+Desktop Support L1,Visionyle Solutions Private Limited,Mumbai,260000,7,1
+QA Engineer,App Analytics,Faridabad,330000,7,0
+QA Engineer,App Analytics, Ghaziabad,330000,7,0
+QA Engineer,App Analytics, Greater Noida,330000,7,0
+QA Engineer,App Analytics, Gautam Buddha Nagar,330000,7,0
+QA Engineer,App Analytics, Noida,330000,7,0
+QA Engineer,App Analytics, Delhi,330000,7,0
+Product Manager,Conceptmart,Delhi,250000,7,0
+Product Manager,Conceptmart, Indore,250000,7,0
+Product Manager,Conceptmart, Bhopal,250000,7,0
+Web Developer,SR Edu Technologies,Hyderabad,300000,7,1
+Associate Java Developer,Meghnad Saha,Work from home,480000,7,1
+Senior MERN Stack Developer,Callease AI,Work from home,550000,7,1
+Documentation Executive,AVM Healthcare Products Private Limited,Delhi,210000,7,0
+Hosting Support Engineer (Full-Time),Thinking Minds Inc,Nashik,375000,7,1
+Junior Software Developer,Concept.Study,Work from home,200000,7,1
+IT Website Project Manager,DRAA (OPC) PRIVATE LIMITED,Delhi,450000,7,1
+Next JS Developer,Infoware,Ahmedabad,450005,7,1
+Next JS Developer,Infoware, Gandhinagar,450005,7,1
+Junior Software Developer,MHK Tech Inc,Hyderabad,201000,7,0
+Front End Developer,Stirring Minds,Delhi,250000,7,1
+Senior PHP Developer,Indgiants Pvt Ltd,Hyderabad,281000,7,1
+Junior Search Engine Optimization (SEO) Executive,Adnet India,Delhi,210000,7,0
+Associate Software Developer,VIP AI,Pune,950000,7,1
+Full Stack Developer,Prepai,Work from home,200000,7,1
+Full Stack Developer,Kualify Services Private Limited,Work from home,550000,7,1
+Senior Mobile App Developer,Boost Engine Solutions,Work from home,450000,7,1
+AWS Bedrock Developer,Mythri Systems,Work from home,200000,7,1
+Front End Developer,Zepcruit,Pune,800000,7,1
+Senior Java Developer,Relinns Technologies,Mohali,400000,7,1
+Junior UI/UX Designer,Sinder,Work from home,350000,7,1
+AI Automation Engineer,CanadaMentors,Work from home,350000,7,1
+Front End Developer,LiveIntuitions Technologies,Bangalore,575000,7,1
+Android App Developer,LiveIntuitions Technologies,Bangalore,525000,7,1
+Web Developer (Backend),LiveIntuitions Technologies,Bangalore,525000,7,1
+Product Manager,Nuvio Technologies Private Limited,Navi Mumbai,225000,7,0
+Backend Developer,LiveIntuitions Technologies,Bangalore,525000,7,1
+iOS App Developer,LiveIntuitions Technologies,Bangalore,625000,7,1
+Robotics Trainee,Edutech India Private Limited,Bangalore,200000,7,1
+Python Technical Trainer - Full Time Job,Allsoft Solutions And Service Private Limited,Delhi,450000,7,1
+Python Technical Trainer - Full Time Job,Allsoft Solutions And Service Private Limited, Indore,450000,7,1
+Python Technical Trainer - Full Time Job,Allsoft Solutions And Service Private Limited, Kolkata,450000,7,1
+Python Technical Trainer - Full Time Job,Allsoft Solutions And Service Private Limited, Lucknow,450000,7,1
+Python Technical Trainer - Full Time Job,Allsoft Solutions And Service Private Limited, Mohali,450000,7,1
+Web Developer,Small Box Office,Delhi,240000,7,1
+Junior Software Tester,Freshers Job Fair .IN,Bangalore,440000,7,0
+Junior Software Developer,Freshers Job Fair .IN,Bangalore,400000,7,0
+Data Structures And Algorithms Trainer,Finest Coder,Coimbatore,210000,7,1
+IT Administrator,Group Futurista,Gurgaon,250000,7,1
+QA Automation Engineer,Weekday,Chennai,550000,7,0
+Electronics Hardware & Software Specialist,Indian Robotics Solution,Noida,500000,7,1
+Java Developer,Pickmytrade,Work from home,245000,7,0
+Associate Software Developer,SIDDIQUIS ELITE INDIA INSPECTION AND SURVEY PRIVATE LIMITED,Nagpur,265000,7,0
+WordPress Developer,Vaikunth Technologies,Bhavnagar,200000,7,1
+Full Stack Developer,WowPe,Bangalore,600000,7,1
+Web Developer,Scalar Tech Media Private Limited,Work from home,250000,7,1
+Kotlin App Development,AppVersal,Delhi,325000,7,1
+Kotlin App Development,AppVersal, Noida,325000,7,1
+Full-Stack CodeIgniter Developer (UI/UX + Figma),TopSystems.io,Work from home,900000,7,1
+Full-Stack CodeIgniter Developer (UI/UX + Figma),TopSystems.io,Nashik,1000000,7,1
+Android App Developer (Only Female Preferred)(PHP & Laravel),Saif Agro Tech,Bangalore,275000,7,1
+Product Manager,Stamurai,Work from home,360000,7,0
+Django Rest Framework Developer – Full-Time,Voizer.ai,Delhi,360000,7,1
+React & Next.js Frontend Engineer – Build AI Interfaces,Voizer.ai,Delhi,320000,7,1
+Junior IT Support Officer,SegueIT,Ghaziabad,225000,7,0
+Senior PHP Developer,Skillstride Ventures (OPC) Private Limited,Lucknow,378000,7,1
+IT Support & Systems Administrator,Kalolwala And Associates,Kolkata,800000,7,1
+Software Developer,RapidLaps,Mumbai,450000,7,1
+Associate Software Developer,Pandasdroid Private Limited,Work from home,450000,7,1
+.NET Developer,Softel Technologies Incorporation,Mumbai,200000,7,0
+.NET Developer,Roamkaro Technologies Private Limited,Noida,250000,7,1
+Artificial Intelligence (AI) Associate,Voicedots Infotech,Work from home,220000,7,1
+Information Technology Engineer,Globussoft,Bhilai,200500,7,1
+Senior WordPress Developer,ZOOT DIGITAL SEO,Navi Mumbai,600000,7,1
+"Backend Specialist - Research, Architect, And Build",Dofin Tech Private Limited,Gurgaon,576000,7,1
+.NET Developer,Vasp Technologies Private Limited,Guwahati,325000,7,1
+Android App Developer,Genleadkart Ai Pvt. Ltd.,Bhopal,220000,14,1
+Junior Full Stack Developer,BLG Technologies,Work from home,500000,14,1
+.NET Developer,DeepNexus.in,Work from home,700000,14,0
+Quality Inspector,Datum Advanced Composites Private Limited,Kanpur,450000,14,1
+Front End Developer,Stirring Minds,Delhi,250000,14,1
+Artificial Intelligence (AI) Associate,Stirring Minds,Delhi,400000,14,0
+Cyber Security Instructor - Full Time,Allsoft Solutions And Service Private Limited,Delhi,425000,14,1
+Cyber Security Instructor - Full Time,Allsoft Solutions And Service Private Limited, Lucknow,425000,14,1
+Cyber Security Instructor - Full Time,Allsoft Solutions And Service Private Limited, Mohali,425000,14,1
+Full Stack Developer,Nasya Software Technologies Private Limited,Work from home,350000,14,1
+Software Engineer Trainee,Nanomark Technologies,Work from home,900000,14,0
+Backend Developer,Sedulous Softtech,Delhi,400000,14,1
+Backend Developer,Sedulous Softtech, Ghaziabad,400000,14,1
+Backend Developer,Sedulous Softtech, Noida,400000,14,1
+Mobile App Developer,Softsensor.ai,Jaipur,450000,14,1
+Technical Trainer,Iamneo.ai,Coimbatore,550000,14,1
+Junior Software Tester,NEXOS SOFT TECHNOLOGIES,Noida,270000,14,1
+Mobile App Developer,White Placard Systems Pvt. Ltd.,Ranchi,200000,14,0
+Full Stack GenAI Developer,MeetMinutes,Work from home,650000,14,1
+Full Stack Developer,Megaminds IT Services,Hyderabad,220000,14,0
+Junior Software Developer,Sheenlac Paints Limited,Chennai,298000,14,0
+Junior Mobile App Developer,Shubhchintak,Work from home,610000,14,1
+Associate Software Tester,PRP Webs,Jaipur,250000,14,0
+Associate Mobile App Developer,BLUECS.IN,Work from home,300000,14,1
+.NET Developer,Bloom Infotech,Mohali,250000,14,1
+AI Vibe Coder (Full-stack Development),Cinemate™,Mumbai,225000,14,1
+Web Developer,PVP Staffing,Hyderabad,300000,14,1
+System Administrator Intern,S.K. Translines Private Limited,Jalgaon Kh.,275000,14,1
+Mobile App Developer,Rutecho IT Solution,Work from home,600000,14,1
+Photo Editor,BEYOND PHOTOS,Delhi,500000,14,1
+Photo Editor,BEYOND PHOTOS, Noida,500000,14,1
+Computer Hardware And Software Installation Eng,Maruti Computers,Mumbai,250000,14,1
+3D Rigging And Animator,Adstacks Media,Gurgaon,320000,14,1
+NextJS Developer,Karan Rajput,Work from home,270000,14,1
+Digital Media & Website Coordinator,Manor Clinic,Work from home,220000,14,1
+Junior JavaScript Developer,Educase India,Hyderabad,300000,14,0
+ERPNext Developer,Tekbee Technologies,Work from home,285000,14,1
+MERN Stack Developer,ZustPe Payments Private Limited,Chennai,276000,14,0
+Associate Software Developer,Invincitech Software Private Limited,Bangalore,240000,14,0
+Senior Full Stack Developer,Digital Gorilla,Faridabad,300000,14,1
+Computer Operator,Redoak Computing,Work from home,550000,14,0
+MERN Stack Developer,Joiningends Technologies Pvt Ltd,Kolkata,300000,14,1
+WordPress Developer,SaaSnic Technologies Services Private Limited,Work from home,200000,14,1
+Game Developer,Sharpenminds Technologies Private Limited,Ahmedabad,400000,14,1
+Junior Android App Developer,Dzaro Solutions,Indore,200500,14,1
+WordPress Developer,Reliable Solution,Surat,400000,14,1
+Sales Engineer,Senso Vision System,Bangalore,290000,14,0
+Backend Developer,LeadPro,Chennai,260000,14,0
+Full Stack Developer,MediaCom India,Work from home,550000,14,0
+Software Engineer,MediaCom India,Work from home,650000,14,0
+Software Tester,MediaCom India,Work from home,650000,14,0
+Software Developer,MediaCom India,Work from home,650000,14,0
+Web Developer,MediaCom India,Work from home,550000,14,0
+Associate Software Developer,Reconzile,Work from home,200000,14,0
+Backend Developer,Clipo AI Private Limited,Noida,445000,14,0
+Front End Development,DevForce,Work from home,450000,14,1
+Android App Developer,Institute Of Health Management Research,Bangalore,330000,14,1
+Mobile App Developer,Warm Table Technologies Private Limited,Bangalore,540000,14,1
+Google Workspace Sales Executive,Leanotech Solutions Private Limited,Pune,470000,14,0
+Full Stack Developer,Taskify,Work from home,900000,14,0
+Product Manager,EnglishBhashi,Work from home,250000,14,1
+L1 Support Engineer,Ivy Mobility Solutions,Kolkata,300001,14,1
+Front End Developer,Dofin Tech Private Limited,Gurgaon,456000,14,1
+Technical Support Analyst,Regime Tax Solutions Private Limited,Navi Mumbai,300000,14,1
+Technical Support Analyst,Regime Tax Solutions Private Limited, Mumbai,300000,14,1
+Junior WordPress Developer,Bixeltek,Hyderabad,300000,14,0
+Website Audit Video Creator (Remote),Alligner.com,Work from home,300000,14,0
+Frontend Angular Developer,Regime Tax Solutions Private Limited,Navi Mumbai,700000,14,1
+Frontend Angular Developer,Regime Tax Solutions Private Limited, Mumbai,700000,14,1
+Laravel And Next.js Developer,Developers Street,Agra,250000,14,1
+SAP ABAP Associate,Ascendancy Technologies Private Limited,Bangalore,200000,14,1
+AI/ML ERPNext Developer,Purple Cat Marketing,Work from home,600000,14,1
+Technical Onsite Support Executive,WovV Technologies,Udaipur,225000,14,1
+Full Stack Developer,Go Picnic Technology Solutions,Chennai,200000,14,0
+Full Stack Developer,Go Picnic Technology Solutions, Ramapuram,200000,14,0
+Associate Software Developer,Worko.ai,Bangalore,450000,14,1
+Manual Tester,NexGen Innovators IT Services Private Limited,Delhi,250000,14,1
+21st Century Skills Trainer,SKILLZINFINITY INDIA PRIVATE LIMITED,Bangalore,360000,14,1
+Unity Game Developer,IDZ Digital Private Limited,Work from home,250000,14,0
+Game Designer,IDZ Digital Private Limited,Mumbai,250000,14,0
+Image Processing Associate,RProcess Outsourcing Services Pvt.Ltd,Mysuru,200000,14,0
+Associate Python Developer,Startwith Basicx Private Limited,Jaipur,300000,14,0
+Flutter Developer,Japam Spiritual Private Limited,Mohali,525000,14,1
+Full Stack Developer,Ipex Logistics,Work from home,400000,14,0
+AI-Powered Full-Stack Developer,CSTE International,Work from home,360000,14,1
+Android App Developer,Genesis,Work from home,850000,14,0
+Junior Software Developer,Hexacom Technologies,Work from home,300000,14,0
+Junior Android App Developer,Levia Technologies Private Limited,Work from home,230000,14,1
+Web Developer,Elite Offshore Private Limited,Navi Mumbai,200000,21,1
+Senior PHP Laravel Developer,Brandzzy SoftTech Private Limited,Bhubaneswar,900000,21,1
+iOS App Developer,UPRISE SOLAR RESOURCES PRIVATE LIMITED,Work from home,900000,21,1
+Associate iOS App Developer,UPRISE SOLAR RESOURCES PRIVATE LIMITED,Work from home,800000,21,1
+Junior Software Tester,UPRISE SOLAR RESOURCES PRIVATE LIMITED,Work from home,950000,21,1
+Junior Software Developer,UPRISE SOLAR RESOURCES PRIVATE LIMITED,Work from home,800000,21,1
+Associate Software Tester,UPRISE SOLAR RESOURCES PRIVATE LIMITED,Work from home,800000,21,1
+Associate Software Developer,UPRISE SOLAR RESOURCES PRIVATE LIMITED,Work from home,800000,21,1
+Associate Mobile App Developer,UPRISE SOLAR RESOURCES PRIVATE LIMITED,Work from home,800000,21,1
+Associate Android App Developer,UPRISE SOLAR RESOURCES PRIVATE LIMITED,Work from home,950000,21,1
+Android App Developer,UPRISE SOLAR RESOURCES PRIVATE LIMITED,Work from home,800000,21,1
+Associate Ruby On Rails Developer,UPRISE SOLAR RESOURCES PRIVATE LIMITED,Work from home,800000,21,1
+Internet of Things (IoT) Specialist,UPRISE SOLAR RESOURCES PRIVATE LIMITED,Work from home,1050000,21,1
+Internet of Things (IoT) Executive,UPRISE SOLAR RESOURCES PRIVATE LIMITED,Work from home,1050000,21,1
+Internet of Things (IoT) Associate,UPRISE SOLAR RESOURCES PRIVATE LIMITED,Work from home,950000,21,1
+Cyber Security Manager,UPRISE SOLAR RESOURCES PRIVATE LIMITED,Work from home,1050000,21,1
+Cyber Security Executive,UPRISE SOLAR RESOURCES PRIVATE LIMITED,Work from home,1050000,21,1
+Cyber Security Associate,UPRISE SOLAR RESOURCES PRIVATE LIMITED,Work from home,825000,21,1
+Associate Game Developer,UPRISE SOLAR RESOURCES PRIVATE LIMITED,Work from home,750000,21,1
+.NET Developer,UPRISE SOLAR RESOURCES PRIVATE LIMITED,Work from home,950000,21,1
+Firmware Developer - GET,IoTfy Solutions Private Limited,Delhi,295000,21,0
+Assistant Software Engineer,Planys Technologies Private Limited,Chennai,550000,21,1
+Programmer,UPRISE SOLAR RESOURCES PRIVATE LIMITED,Work from home,850000,21,1
+Junior Programmer,UPRISE SOLAR RESOURCES PRIVATE LIMITED,Work from home,800000,21,1
+Associate Programmer,UPRISE SOLAR RESOURCES PRIVATE LIMITED,Work from home,900000,21,1
+Junior/Senior Network Engineer – Network Operations Center (NOC),Credeb Advisors LLP,Lucknow,510000,21,1
+Junior/Senior Network Engineer – Network Operations Center (NOC),Credeb Advisors LLP, Meerut,510000,21,1
+Junior/Senior Network Engineer – Network Operations Center (NOC),Credeb Advisors LLP, Kochi,510000,21,1
+Junior/Senior Network Engineer – Network Operations Center (NOC),Credeb Advisors LLP, Sohna,510000,21,1
+Junior/Senior Network Engineer – Network Operations Center (NOC),Credeb Advisors LLP, Mohali,510000,21,1
+Flutter Developer – Mobile & Web App Development,Bunni Education Service Private Limited,Work from home,360000,21,1
+Junior Full Stack Developer,Planys Technologies Private Limited,Chennai,450000,21,1
+Software Developer,Sensel Telematics Pvt Ltd,Bangalore,400000,21,0
+Founding Engineer,Calquity Technologies Private Limited,Work from home,975000,21,0
+Founding Engineer,Calquity Technologies Private Limited,Work from home,900000,21,0
+Junior WordPress Developer,Devgraphiq,Work from home,400000,21,0
+Technical Trainer,CADD Centre,Bangalore,270000,21,0
+Associate Python Developer,Silfra Technologies,Pune,325000,21,1
+Associate Python Developer,Silfra Technologies, Bangalore,325000,21,1
+Full Stack Developer,BluEnt,Faridabad,220000,21,0
+Full Stack Developer,BluEnt, Delhi,220000,21,0
+Full Stack Developer,BluEnt, Greater Noida,220000,21,0
+Full Stack Developer,BluEnt, Noida,220000,21,0
+Junior Front End Developer,Zedex Info Private Limited,Thane,200000,21,0
+Junior Front End Developer,Zedex Info Private Limited, Navi Mumbai,200000,21,0
+Junior Front End Developer,Zedex Info Private Limited, Mumbai,200000,21,0
+Junior WordPress Developer,Zedex Info Private Limited,Mumbai,200000,21,0
+Shopify Website Developer,The World Of Nerds,Hosur,220000,21,0
+Shopify Website Developer,The World Of Nerds, Dharmapuri,220000,21,0
+Shopify Website Developer,The World Of Nerds, Salem,220000,21,0
+Shopify Website Developer,The World Of Nerds, Tamil Nadu,220000,21,0
+Shopify Website Developer,The World Of Nerds, Krishnagiri,220000,21,0
+Full Stack Developer,I- Sourcing Technologies Private Limited (Tender247),Ahmedabad,330000,21,1
+Senior WordPress Developer,SG Gurukul - NISM & Digital Marketing Institute And Agency,Indore,350000,21,1
+Full Stack Developer,Jasya Consultancy Private Limited,Ahmedabad,330000,21,1
+Full Stack Developer,Jasya Consultancy Private Limited, Mehsana,330000,21,1
+Full Stack Developer,Jasya Consultancy Private Limited, Vadodara,330000,21,1
+Full Stack Developer,Jasya Consultancy Private Limited, Bharuch,330000,21,1
+Full Stack Developer,Rankwatch,Work from home,400000,21,1
+SEO Specialist,Happy Homes,Work from home,250000,21,1
+Android App Developer,Rahul Sir Classes,Work from home,450000,21,1
+PHP Developer,Noormertech,Gurgaon,450000,21,1
+Full Stack Developer,Crenovent Technologies Private Limited,Noida,525000,21,1
+Python Developer,Techgsinterns,Work from home,390000,21,1
+Junior Software Developer,SyncMonk Technologies,Bangalore,375000,21,0
+Warehouse Executive,Areete Business Solutions,Pune,752000,21,1
+Android App Developer,Weavers Web,Kolkata,260000,21,0
+Backend Developer,Trade Brains,Bangalore,435000,21,1
+Shopify Coder,Working Weekends,Work from home,450000,21,1
+Trainee Engineer - Quality,E2E Rail,Bangalore,300000,21,0
+Trainee Software Engineer,GigaForce Software Private Limited,Noida,460000,21,0
+Senior IT Executive,Garodia Group,Mumbai,600000,21,1
+Laptop Service Engineer,Cyber Desk Experts,Hyderabad,299000,21,1
+Product & Sales Growth Manager – E-commerce & Social Media,Ampro TechValley,Salem,250000,21,1
+Tech Trainer,ENpower,Ahmedabad,210000,21,0
+Junior Software Developer,App Genesis Soft Solutions Private Limited,Machilipatnam,200000,21,0
+Junior Software Developer,App Genesis Soft Solutions Private Limited, Vijayawada,200000,21,0
+Digital Marketing Associate,Srishta Silk,Bangalore,210000,21,0
+Mern Trainer,Learnify,Hyderabad,300000,21,1
+Subject Matter Expert- Computer Science,Vaidik EduServices Private Limited,Work from home,200000,21,0
+Network & IT Infrastructure Executive,Walnut Research And Development Centre,Pune,275000,21,0
+Quality Engineer,AN GLOBAL SERVICES,Noida,383000,21,1
+Senior Backend Developer,NodeStar,Work from home,56700,21,1
+Senior Web Developer,RJ Global Solutions,Hyderabad,623000,21,1
+Full Stack Developer,Parsh Technologies,Rajkot,300000,21,0
+Software Developer,Micropack Industrial Instruments,Meerut,350000,21,1
+Associate Software Developer,Jina Code Systems LLP,Gurgaon,825000,21,1
+Quality Analyst,AVM Healthcare Products Private Limited,Delhi,240000,21,1
+Compliance Executive,AVM Healthcare Products Private Limited,Delhi,250000,21,1
+Trainee - Infrastructure Engineer,Ivy Mobility Solutions,Chennai,325000,21,0
+Full Stack Developer,Source Good Food Tech Pvt Ltd,Mumbai,200000,21,0
+Full Stack Developer,Source Good Food Tech Pvt Ltd, Cochin,200000,21,0
+WordPress Developer,Jagzap Engineering,Nashik,235000,21,1
+Quality Executive,AVM Healthcare Products Private Limited,Delhi,230000,21,0
+Wordpress & Shopify Developer,Keval Raval,Work from home,200000,21,1
+Associate iOS App Developer,Five 9s Solutions,Hyderabad,400000,21,0
+Python Developer,Smartplot,Work from home,300000,21,0
+Junior Software Tester,Globussoft,Bhilai,200000,21,0
+Back End Executive,MainlineIT,Work from home,550000,21,0
+Full Stack Developer,TurningCloud Solutions Private Limited,Work from home,750000,21,1
+Junior Software Tester,Quantasis Private Limited,Mumbai,325000,21,1
+Senior WordPress Developer,Ultra Display Ads,Work from home,6650,21,1
+Web Developer,Exim Consultancy,Ghaziabad,225000,21,0
+Associate Software Developer,Razor Edge Analytics Private Limited,Mumbai,512500,21,0
+Junior Full Stack Developer (Fresher),Swabhav Venturelabs,Mumbai,415000,21,0
+Technical Support Engineer,BusinessOnBot,Bangalore,550000,21,1
+Product Specialist,SocialPilot,Work from home,600000,21,1
+React JS Frontend Developer,ElevateX,Mumbai,420000,21,1
+Senior Node JS Backend Developer,ElevateX,Mumbai,480000,21,1
+QA Engineer- Manual Testing,KoiReader Technologies,Work from home,350000,21,1
+Backend Maintenance Executive,Redoak Computing,Work from home,550000,21,0
+Full Stack Developer,Lazy Idli Private Limited,Bangalore,525000,21,1
+Computer Faculty,Hartron Skill Centre,Yamunanagar,235000,21,0
+IOT Engineer,NERASTECH ( NEWERAS ENERCON TECHNOLOGIES PVT LTD.),Bangalore,525000,21,1
+WordPress Developer,DigitalVia Technologies (OPC) Private Limited,Indore,250000,21,1
+Senior PHP Developer,WES Consultancy & Services Private Limited,Raipur,350000,21,1
+WordPress Developer,Foremost Leads,Work from home,420000,21,1
+Associate QA (Live Ops),BlackLight Studio Works,Noida,400000,21,1
+DevOps Engineer,Swayatt Drishtigochar,Gurgaon,360000,21,1
+Software Developer,Unsquare,Thane,287500,21,0
+Software Developer,Unsquare, Mumbai,287500,21,0
+Front End Developer,Maximilian Globus,Mumbai,650000,21,1
+Full Stack Developer,CXO Branding,Bangalore,325000,21,1
+Associate Mobile App Developer,EaseRent,Work from home,250001,21,1
+Electronics Engineer,Mirabilis Design Incorporation,Work from home,1300000,21,1
+Junior Software Developer,SSTPath,Bangalore,218000,21,1
+Software Tester,Jina Code Systems LLP,Gurgaon,350000,21,1
+Junior Software Tester,Gloify,Bangalore,275000,21,1
+Full Stack Developer,AI.Rawat,Work from home,302500,21,0
+Information Technology Engineer,Cube Software Private Limited,Chennai,326000,21,1
+Information Technology Engineer,Cube Software Private Limited, Delhi,326000,21,1
+Information Technology Engineer,Cube Software Private Limited, Ghaziabad,326000,21,1
+Information Technology Engineer,Cube Software Private Limited, Gurgaon,326000,21,1
+Information Technology Engineer,Cube Software Private Limited, Hyderabad,326000,21,1
+Information Technology Engineer,Cube Software Private Limited, Mumbai,326000,21,1
+Information Technology Engineer,Cube Software Private Limited, Noida,326000,21,1
+Information Technology Engineer,Cube Software Private Limited, Bangalore,326000,21,1
+Performance Marketing Executive,Ayurveda House Private Limited,Delhi,330000,21,1
+Software Test Engineer (Generative AI Platform),AIVOA,Work from home,212500,21,0
+Customer Success (Tech Support - SaaS Software),PeakScale Technologies Private Limited,Work from home,270000,21,0
+Python Full Stack Developer,Megaminds IT Services,Hyderabad,225000,21,0
+React Native Developer,Agnitimba Private Limited,Work from home,500000,21,1
+WordPress Developer,Born Genius,Work from home,375000,21,0
+Shopify Developer / Expert,The Affordable Organic Store,Kompally,321864,21,1
+Product Specialist,Mediklik,Raipur,375000,21,1
+Sales Development Representative - US Market,Contlo,Bangalore,1500000,21,1
+Computer Executive,Redoak Computing,Work from home,550000,21,0
+Golang Developer,AppVersal,Delhi,350000,21,1
+Golang Developer,AppVersal, Noida,350000,21,1
+Junior Front End Developer,Reli.AI,Work from home,300000,21,1
+Software Engineer (Flutter/Full-Stack),Z NATURALS,Work from home,1500000,21,0
+Associate Software Developer,SECRET VMS TECHNOLOGIES LLP,Work from home,400000,21,0
+Full Stack Developer,OneStopKYC,Mumbai,220000,21,1
+Computer Vision Specialist,Kauriink Private Limited,Delhi,1130000,21,1
+Junior Laravel Developer,Blue Waves Media,Kolkata,225000,21,0
+Information Technology Engineer,Global Hiring Services,Noida,350000,21,0
+Full Stack Software Engineer,Immigrader Tech LLC,Work from home,220000,21,0
+Full Stack Developer,Swan Investment,Work from home,600000,21,1
+Production Supervisor,Pro ESD Private Limited,Chennai,260000,21,0
+Software Development Engineer-1 (Frontend),VidyutTech Services Private Limited,Bangalore,950000,21,1
+Artificial Intelligence (AI) Associate,NetWit,Work from home,500000,21,1
+Web Developer,NetWit,Work from home,400000,21,1
+Digital Operations Executive,Unibots,Delhi,300000,21,0
+.NET Developer,Softel Technologies Incorporation,Mumbai,200000,21,0
+Android App Developer,StarShield Technologies Private Limited,Ghaziabad,225000,21,1
+Web Developer,Dataknobs,Work from home,300000,21,1
+Junior Web Developer,National Vidya Foundation,Kolkata,250000,21,1
+Junior Web Developer,National Vidya Foundation, Howrah,250000,21,1
+Artificial Intelligence (AI) Associate,New Business Strategies Corporation,Work from home,450000,21,1
+Full Stack Developer,Fine Data Analytics Private Limited,Gurgaon,300000,21,1
+Java Developer,Multivirt India Private Limited,Faridabad,265000,21,1
+Java Developer,Multivirt India Private Limited, Ghaziabad,265000,21,1
+Java Developer,Multivirt India Private Limited, Gurgaon,265000,21,1
+Java Developer,Multivirt India Private Limited, Noida,265000,21,1
+Java Developer,Multivirt India Private Limited, Delhi,265000,21,1
+Database & Systems Administrator,Regime Tax Solutions Private Limited,Thane,850000,21,1
+Database & Systems Administrator,Regime Tax Solutions Private Limited, Navi Mumbai,850000,21,1
+Database & Systems Administrator,Regime Tax Solutions Private Limited, Mumbai,850000,21,1
+Java Backend Developer,Regime Tax Solutions Private Limited,Thane,1000000,21,1
+Java Backend Developer,Regime Tax Solutions Private Limited, Navi Mumbai,1000000,21,1
+Java Backend Developer,Regime Tax Solutions Private Limited, Mumbai,1000000,21,1
+DevOps Engineer,Regime Tax Solutions Private Limited,Thane,700000,21,1
+DevOps Engineer,Regime Tax Solutions Private Limited, Navi Mumbai,700000,21,1
+DevOps Engineer,Regime Tax Solutions Private Limited, Mumbai,700000,21,1
+"Artificial Intelligence (AI) (Computer Vision, NLP & GenerativeAI)",ProductizeTech,Work from home,450000,21,0
+Image Processing Executive,Super Maternal,Work from home,363000,21,0
+JavaScript Developer,Cloud Express Solutions Private Limited,Work from home,340000,21,0
+Mobile App Developer,DSD Systems Private Limited,Noida,260000,21,1
+Python Developer,Custom Elements Private Limited,Bangalore,350000,21,1
+Python Developer,AIVOA,Work from home,215000,21,0
+Full Stack Engineer,Talent Corner HR Services Private Limited,Mumbai,2750000,1,6
+Software Developer,Almighty HRD Consultants,Coimbatore,Competitive Salary,1,2
+Backend Developer,Huemn,Hyderabad,Competitive Salary,1,1
+Senior Sap MM Consultant,INTINERI INFOSOL PRIVATE LIMITED,Pune,1650000,1,7
+Quality Analyst,Biz4Group LLC,Jaipur,300000,1,1
+Product Manager,Crafts By Elegance,Bangalore,Competitive Salary,1,4
+Management Information System Executive,Aertrip,Delhi,300000,1,4
+Level 3 Network Engineer,Kiash Solutions LLP,Hyderabad,2250000,2,7
+Project Manager,V3Cube,Ahmedabad,1100000,2,7
+Sr Cyber Security Analyst,Kiash Solutions LLP,Bangalore,1250000,2,3
+Backup Administrator - Guwahati,Jio,Guwahati,Competitive Salary,2,4
+Dotnet Azure Developer,Kiash Solutions LLP,Ahmedabad,1250000,2,3
+Dotnet Azure Developer,Kiash Solutions LLP, Anand,1250000,2,3
+Dotnet Azure Developer,Kiash Solutions LLP, Vadodara,1250000,2,3
+Junior Node.js Developer,Web Idea Solution LLP,Work from home,600000,2,2
+System Cloud Admin,Kiash Solutions LLP,Ahmedabad,950000,2,4
+System Cloud Admin,Kiash Solutions LLP, Vadodara,950000,2,4
+System Cloud Admin,Kiash Solutions LLP, Bharuch,950000,2,4
+Java Developer With Selenium,GoldenHire Consultancy,Gurgaon,Competitive Salary,2,4
+Java Developer With Selenium,GoldenHire Consultancy, Noida,Competitive Salary,2,4
+Java Developer With Selenium,GoldenHire Consultancy, Bangalore,Competitive Salary,2,4
+Sr. Azure Data Engineer,ALIQAN Technologies,Work from home,1260000,2,8
+Software Engineer In Test,GoldenHire Consultancy,Gurgaon,Competitive Salary,3,5
+Software Engineer In Test,GoldenHire Consultancy, Noida,Competitive Salary,3,5
+Software Engineer In Test,GoldenHire Consultancy, Bangalore,Competitive Salary,3,5
+Sr. .Net Blazor Developer,Web Idea Solution LLP,Work from home,1100000,3,5
+Gainsight Consultant Freelance Remote,Agodly Infotech LLP,Work from home,Competitive Salary,3,5
+Cybersecurity Compliance Transition Expert,Agodly Infotech LLP,Work from home,Competitive Salary,3,5
+Java Full Stack Developer,Web Idea Solution LLP,Noida,Competitive Salary,3,4
+Java Full Stack Developer,Web Idea Solution LLP, Bangalore,Competitive Salary,3,4
+Java Full Stack Developer,Web Idea Solution LLP, Pune Division,Competitive Salary,3,4
+Salesforce Developer,Web Idea Solution LLP,Bangalore,1350000,3,4
+SAP SD Consultant,INTINERI INFOSOL PRIVATE LIMITED,Pune,1550000,3,6
+Project Coordinator - Ahmedabad,V3Cube,Ahmedabad,450000,3,2
+Quality Assurance Tester,Money Honey Financial Services Private Limited,Mumbai,Competitive Salary,3,1
+Full Stack Developer,Blurbpoint Media,Ahmedabad,Competitive Salary,3,3
+Senior Java Developer,Ultrafly Solutions Private Limited,Bangalore,Competitive Salary,3,5
+MS Dynamics F&O Developers,Admin Looks,Delhi,1550000,4,4
+MS Dynamics F&O Developers,Admin Looks, Noida,1550000,4,4
+Product Manager,VectorStack,Bangalore,800000,4,3
+Magento Developer,Colan Infotech Private Limited,Chennai,Competitive Salary,4,5
+Cloud Solution Architect,Jio,Delhi,Competitive Salary,4,12
+Cloud Solution Architect,Jio, Pune,Competitive Salary,4,12
+Cloud Solution Architect,Jio, Mumbai,Competitive Salary,4,12
+Cloud Solution Architect,Jio, Bangalore,Competitive Salary,4,12
+Program Manager-Cloud Adoption,Jio,Gurgaon,Competitive Salary,4,15
+Program Manager-Cloud Adoption,Jio, Pune,Competitive Salary,4,15
+Program Manager-Cloud Adoption,Jio, Mumbai,Competitive Salary,4,15
+Program Manager-Cloud Adoption,Jio, Bangalore,Competitive Salary,4,15
+Software Developer ASP.NET MVC,VITAL INTELLIGENCE TECHNOLOGY PRIVATE LIMITED,Ahmedabad,600000,4,2
+System Network Administrator,Xomic Infotech Private Limited,Ahmedabad,275000,4,1
+SENIOR TECHNICAL ENGINEER  Huawei Storage,Intertec Softwares Pvt Ltd,Indore,Competitive Salary,4,7
+Packaging Research Associate,Vilvah Store Private Limited,Coimbatore,Competitive Salary,4,1
+Informatica Developer Remote Freelance,Agodly Infotech LLP,Work from home,Competitive Salary,4,10
+Cloud Application Migration Architect,Jio,Gurgaon,Competitive Salary,4,10
+Cloud Application Migration Architect,Jio, Mumbai,Competitive Salary,4,10
+Cloud Application Migration Architect,Jio, Bangalore,Competitive Salary,4,10
+Application Support & Site Reliability Engineer,Hire Wings,Hyderabad,1450000,4,4
+Back End Developer,Lifesight,Bangalore,Competitive Salary,4,3
+QUALITY MANAGER,Almighty HRD Consultants,Hosur,1100000,4,12
+Kubernetes Developer,Jio,Delhi,Competitive Salary,5,6
+Kubernetes Developer,Jio, Gurgaon,Competitive Salary,5,6
+Kubernetes Developer,Jio, Noida,Competitive Salary,5,6
+Salesforce LWC Developer,Agodly Infotech LLP,Pune Division,Competitive Salary,5,4
+Storage Backup SME,Jio,Gurgaon,Competitive Salary,5,10
+Storage Backup SME,Jio, Mumbai,Competitive Salary,5,10
+Storage Backup SME,Jio, Bangalore,Competitive Salary,5,10
+PHP Developer - Ahmedabad,V3Cube,Ahmedabad,450000,5,2
+Project Manager,INTINERI INFOSOL PRIVATE LIMITED,Work from home,3000000,5,10
+Quality Shift Incharge - Navi Mumbai Location,Reliance Retail,Navi Mumbai,550000,5,2
+Technical Specialist - Windows,Intertec Softwares Pvt Ltd,Unknown,Competitive Salary,5,7
+Backup And Storage Engineer,Intertec Softwares Pvt Ltd,Unknown,Competitive Salary,6,7
+Appian Architect,INTINERI INFOSOL PRIVATE LIMITED,Work from home,2850000,6,10
+Node.js + Angular Developer,Admin Looks,Delhi,475000,7,3
+Node.js + Angular Developer,Admin Looks, Noida,475000,7,3
+Java Developer,Cloudious LLC,Chennai,1250000,7,8
+CodeIgniter Developer,Web Idea Solution LLP,Kolkata,Competitive Salary,7,2
+Operetional Process Management Executive,Web Idea Solution LLP,Kolkata,Competitive Salary,7,1
+PRESALES CONSULTANT  COMPUTE INFRASTRUCTURE,Intertec Softwares Pvt Ltd,Unknown,Competitive Salary,7,7
+Python Developer,Muks Robotics  The AI Robotics Company,Pune,Competitive Salary,7,3
+SAP BASIS Consultant,Cloudious LLC,Chennai,950000,7,5
+SAP BASIS Consultant,Cloudious LLC, Bangalore,950000,7,5
+Software Engineer (.Net Full Stack) - X Delivery,Boston Consulting Group,Gurgaon,Competitive Salary,7,2
+Software Engineer - X Delivery,Boston Consulting Group,Gurgaon,Competitive Salary,7,2
+Software Engineer - X Delivery,Boston Consulting Group, Bangalore,Competitive Salary,7,2
+Associate Tech Lead  Next.js | Node.js | MySQL,Intertec Softwares Pvt Ltd,Unknown,Competitive Salary,7,7
+Senior Python Developer,MagikKraft,Ahmedabad,Competitive Salary,7,5
+Python Developer,IC Data,Hyderabad,Competitive Salary,7,8
+Telecom Coordinator,Intertec Softwares Pvt Ltd,Indore,Competitive Salary,7,2
+SAP ABAP Consultant,INTINERI INFOSOL PRIVATE LIMITED,Pune,1350000,7,7
+WebDriver IO Automation Tester Lead,ALIQAN Technologies,Work from home,Competitive Salary,7,8
+Jr. Business Analyst,Xomic Infotech Private Limited,Ahmedabad,325000,7,1
+Front-end Developer,Foodbuddies,Chennai,Competitive Salary,7,4
+Java Developer,Ultrafly Solutions Private Limited,Coimbatore,Competitive Salary,7,3
+Laravel Developer,NCode Technologies Inc.,Ahmedabad,390000,7,2
+Java Architect,Almighty HRD Consultants,Bangalore,2750000,7,7
+IAM Podcast Powered By Iamops.io,Zensar Technologies,Gurgaon,Competitive Salary,7,8
+IAM Podcast Powered By Iamops.io,Zensar Technologies, Hyderabad,Competitive Salary,7,8
+IAM Podcast Powered By Iamops.io,Zensar Technologies, Noida,Competitive Salary,7,8
+L2 Support,Zensar Technologies,Work from home,Competitive Salary,7,4
+Azure Databricks,Zensar Technologies,Pune,Competitive Salary,7,5
+Azure Databricks,Zensar Technologies, Mumbai,Competitive Salary,7,5
+Senior Developer - ReactJS Full Stack,ALIQAN Technologies,Unknown,Competitive Salary,7,6
+Senior Python ETL Developer/Lead,ALIQAN Technologies,Unknown,Competitive Salary,7,5
+Odoo Developers,VITAL INTELLIGENCE TECHNOLOGY PRIVATE LIMITED,Ahmedabad,Competitive Salary,7,4
+Business Development Executive - Ahmedabad,V3Cube,Ahmedabad,550000,7,2
+Freelance Interviewer-Full Stack (Optimizely),Futuremug,Thiruvananthapuram,936000,7,8
+Java Developer,Agodly Infotech LLP,Gurgaon,Competitive Salary,7,10
+Pvt. Cloud SME/Architect,Jio,Delhi,3000000,7,10
+Pvt. Cloud SME/Architect,Jio, Mumbai,3000000,7,10
+Pvt. Cloud SME/Architect,Jio, Bangalore,3000000,7,10
+Pre-Sales Consultants,Jio,Delhi,Competitive Salary,7,10
+Pre-Sales Consultants,Jio, Navi Mumbai,Competitive Salary,7,10
+Pre-Sales Consultants,Jio, Bangalore,Competitive Salary,7,10
+Teamcenter Admin,Thinkinnov Solution Technologies Private Limited,Chennai,1500000,7,8
+Teamcenter Admin,Thinkinnov Solution Technologies Private Limited, Hyderabad,1500000,7,8
+Teamcenter Admin,Thinkinnov Solution Technologies Private Limited, Noida,1500000,7,8
+Teamcenter Admin,Thinkinnov Solution Technologies Private Limited, Bangalore,1500000,7,8
+Quality Assurance Manager,Reliance Retail,Unknown,3050000,7,12
+.NET Developer,INTINERI INFOSOL PRIVATE LIMITED,Pune,1250000,7,4
+.Net React With AWS Developer,Web Idea Solution LLP,Work from home,1000000,7,3
+Laravel Developer,Web Idea Solution LLP,Kolkata,Competitive Salary,7,2
+Quality Assurance Engineer I,Amazon,Bangalore,Competitive Salary,7,1
+Quality Assurance Technician,Amazon,Bangalore,Competitive Salary,7,1
+Devops Architect,Jio,Gurgaon,Competitive Salary,7,10
+Devops Architect,Jio, Mumbai,Competitive Salary,7,10
+Data Scientist Engineer,ALIQAN Technologies,Noida,Competitive Salary,7,6
+RPA Business Analyst,INTINERI INFOSOL PRIVATE LIMITED,Work from home,1320000,7,7
+Jr. IOS Developer,MSP Concepts,Ahmedabad,330000,7,1
+HM Consulting SAP HCM,Brainhunter Recruiting Pvt Ltd,Delhi,1200000,7,4
+HM Consulting SAP HCM,Brainhunter Recruiting Pvt Ltd, Kanpur,1200000,7,4
+HM Consulting SAP HCM,Brainhunter Recruiting Pvt Ltd, Lucknow,1200000,7,4
+HM Consulting SAP HCM,Brainhunter Recruiting Pvt Ltd, Patna,1200000,7,4
+"Software Development Engineer II, AWD",Amazon,Bangalore,Competitive Salary,7,3
+Software Development Engineer II,Amazon,Chennai,Competitive Salary,7,3
+Senior Software Developer,Intertec Softwares Pvt Ltd,Unknown,Competitive Salary,7,8
+Senior Software Engineer,Intertec Softwares Pvt Ltd,Unknown,Competitive Salary,7,7
+PHP Developer,Ultrafly Solutions Private Limited,Coimbatore,Competitive Salary,7,1
+SME MSSQL,Jio,Delhi,Competitive Salary,7,8
+SME - PostgreSQL  (JIO),Jio,Delhi,Competitive Salary,7,8
+Database Administrator,Jio,Guwahati,Competitive Salary,7,3
+Senior Teamcenter Developer,Thinkinnov Solution Technologies Private Limited,Bangalore,1650000,7,4
+D365 Power Pages UX/UI Developer,Brainhunter Recruiting Pvt Ltd,Chennai,1500000,7,4
+D365 Power Pages UX/UI Developer,Brainhunter Recruiting Pvt Ltd, Gurgaon,1500000,7,4
+D365 Power Pages UX/UI Developer,Brainhunter Recruiting Pvt Ltd, Bangalore,1500000,7,4
+WED DEVELOPMENT,Bi Paints,Surat,360000,14,1
+Junior Third-Party Risk Assessor,NETSACH GLOBAL,Bangalore,Competitive Salary,14,4
+Java Developer,NETSACH GLOBAL,Bangalore,Competitive Salary,14,6
+Oracle BRM Developer,NETSACH GLOBAL,Bangalore,Competitive Salary,14,4
+UI Automation,NETSACH GLOBAL,Bangalore,Competitive Salary,14,4
+Cloud Administrator,Jio,Bhubaneswar,Competitive Salary,14,3
+Automation Anywhere Developer,INTINERI INFOSOL PRIVATE LIMITED,Work from home,1380000,14,7
+Senior Quality Assurance Automation Engineer,Chiselon Technologies Pvt Ltd,Hyderabad,Competitive Salary,14,2
+.NET Developer,Futuremug,Thiruvananthapuram,Competitive Salary,14,1
+GOOGLE SHEET DEVELOPER,Rawalwasia Groups,Surat,Competitive Salary,14,2
+CCTV Technician,Netsrx Electronic Security Solutions Private Limited,Mumbai,Competitive Salary,14,0
+CCTV Technician,Netsrx Electronic Security Solutions Private Limited, Pune Division,Competitive Salary,14,0
+Senior Support Engineer- L1 Support (MarinePALS),Storch Consultancy Private Limited,Gurgaon,540000,14,5
+Sr. Technical Support Engineer (ContactCenter),Intertec Softwares Pvt Ltd,Mumbai,Competitive Salary,14,8
+Senior Functional Consultant - D365 F&O,Intertec Softwares Pvt Ltd,Unknown,Competitive Salary,14,7
+DotNet Developer,INTINERI INFOSOL PRIVATE LIMITED,Pune,1150000,14,7
+Angular Developer,ALIQAN Technologies,Noida,Competitive Salary,14,4
+Fusion Developer,INTINERI INFOSOL PRIVATE LIMITED,Chennai,2350000,14,7
+MFT Axway Administration & Developer,Web Idea Solution LLP,Unknown,2350000,14,6
+Senior Informatica Engineer,Web Idea Solution LLP,Work from home,2350000,14,6
+Senior .Net Core Developer,Q1 Technology,Chennai,Competitive Salary,14,9
+Senior .Net Core Developer,Q1 Technology, Dehradun,Competitive Salary,14,9
+Senior .Net Core Developer,Q1 Technology, Pune,Competitive Salary,14,9
+Senior .Net Core Developer,Q1 Technology, Mumbai,Competitive Salary,14,9
+Senior .Net Core Developer,Q1 Technology, Noida,Competitive Salary,14,9
+Senior .Net Core Developer,Q1 Technology, Nagpur,Competitive Salary,14,9
+Senior .Net Core Developer,Q1 Technology, Bangalore,Competitive Salary,14,9
+Python Developer,Admin Looks,Pune,900000,14,5
+Python Developer,Admin Looks, Hyderabad,900000,14,5
+Python Developer,Admin Looks, Pune Division,900000,14,5
+Front End Developer,Almuqeet Systems,Mohali,Competitive Salary,14,1
+.NET Core Developer,Q1 Technology,Chennai,Competitive Salary,14,6
+.NET Core Developer,Q1 Technology, Dehradun,Competitive Salary,14,6
+.NET Core Developer,Q1 Technology, Pune,Competitive Salary,14,6
+.NET Core Developer,Q1 Technology, Mumbai,Competitive Salary,14,6
+.NET Core Developer,Q1 Technology, Noida,Competitive Salary,14,6
+.NET Core Developer,Q1 Technology, Nagpur,Competitive Salary,14,6
+.NET Core Developer,Q1 Technology, Bangalore,Competitive Salary,14,6
+.NET Developer,Chiselon Technologies Pvt Ltd,Hyderabad,Competitive Salary,14,7
+Salesforce Developer,Agodly Infotech LLP,Pune Division,Competitive Salary,14,4
+Senior Quality Assurance Automation Engineer,Chiselon Technologies Pvt Ltd,Hyderabad,Competitive Salary,14,7
+Jr. Java Developer,Xomic Infotech Private Limited,Ahmedabad,510000,14,1
+WordPress Developer,Synergy Resource Solutions,Ahmedabad,650000,14,2
+Technical Support Engineer - SOC,Intertec Softwares Pvt Ltd,Indore,Competitive Salary,14,5
+Technical Support Engineer - VDI,Intertec Softwares Pvt Ltd,Indore,Competitive Salary,14,4
+Technical Support Engineer - SCCM,Intertec Softwares Pvt Ltd,Indore,Competitive Salary,14,5
+Technical Specialist - Windows Admin,Intertec Softwares Pvt Ltd,Indore,Competitive Salary,14,8
+Web Developer,Easa College Of Engineering & Technology,Coimbatore,Competitive Salary,14,3
+SAP SD Project Manager,INTINERI INFOSOL PRIVATE LIMITED,Pune,3000000,14,10
+Builder SDK,IC Data,Hyderabad,Competitive Salary,14,8
+Backend Developer,Huemn,Hyderabad,Competitive Salary,21,1
+Angular Developer,JobsFlix,Salem,700000,21,4
+Lead Software Engineer,JobsFlix,Salem,1500000,21,8
+Technical Support Engineer,Rubik Infotech Pvt Ltd.,Ahmedabad,480000,21,4
+Unity Developers,MadVR Solutions Private Limited,Work from home,Competitive Salary,21,3
+SAP Fiori Developer,NETSACH GLOBAL,Bangalore,Competitive Salary,21,5
+Azure Platform Engineer,Admin Looks,Work from home,1350000,21,7
+Senior Data Engineer,Jio,Mumbai,Competitive Salary,21,6
+Full Stack Developer,Setindiabiz,Noida,Competitive Salary,21,4
+Full Stack Developer,Setindiabiz,Noida,700000,21,3
+IT Telecaller,Web Idea Solution LLP,Kolkata,Competitive Salary,21,2
+Android SDET,Innovative Talent Solutions,Vadodara,2050000,21,3
+Backend SDET,Innovative Talent Solutions,Vadodara,2050000,21,3
+Software Engineer ( Flutter ),Intertec Softwares Pvt Ltd,Bangalore,Competitive Salary,21,3
+Security Consultant - GRC,Intertec Softwares Pvt Ltd,Unknown,Competitive Salary,21,7
+Desktop & Network Support Field Engineer,EIL Global IT Solutions And Services Pvt Ltd,Unknown,Competitive Salary,21,2
+Full Stack Developer,I4 Consulting : Reimagining HR Blueprints,Gurgaon,2750000,21,9
+Full Stack Developer,I4 Consulting : Reimagining HR Blueprints, Hyderabad,2750000,21,9
+Full Stack Developer,I4 Consulting : Reimagining HR Blueprints, Noida,2750000,21,9
+Team Lead - Business Professional,IMCS Group,Vadodara,720000,21,4
+Software Test Engineer,Superleap CRM,Bangalore,950000,21,3
+SAP Project Manager,INTINERI INFOSOL PRIVATE LIMITED,Pune,2750000,21,10
+Technical Architect,Storch Consultancy Private Limited,Noida,1800000,21,8
+Power BI,Nexus Jobs,Work from home,1620000,21,5
+Laravel Developer,NCode Technologies Inc.,Ahmedabad,450000,21,2
+Sr.Technical Specialist ( Windows Admin L3 ),Intertec Softwares Pvt Ltd,Indore,Competitive Salary,21,10
+Technical Support Engineer - Service Desk,Intertec Softwares Pvt Ltd,Navi Mumbai,550000,21,2
+MERN Stack Developer,Hunting Cherry,Hyderabad,1000000,21,3
+Rancher AWS Senior Engineer,Aces Global Consulting Pvt Ltd,Faridabad,2250000,21,6
+Rancher AWS Senior Engineer,Aces Global Consulting Pvt Ltd, Delhi,2250000,21,6
+Rancher AWS Senior Engineer,Aces Global Consulting Pvt Ltd, Ghaziabad,2250000,21,6
+Rancher AWS Senior Engineer,Aces Global Consulting Pvt Ltd, Gurgaon,2250000,21,6
+Rancher AWS Senior Engineer,Aces Global Consulting Pvt Ltd, Noida,2250000,21,6
+Storage Admin,Jio,Guwahati,Competitive Salary,21,5
+Business Development Executive - Ahmedabad,V3Cube,Ahmedabad,550000,21,2
+Content Writer - Ahmedabad,V3Cube,Ahmedabad,450000,21,2
+Junior Dotnet Developer + Data Engineer,Kanerika Software Private Limited,Ahmedabad,Competitive Salary,21,3
+Junior Dotnet Developer + Data Engineer,Kanerika Software Private Limited, Indore,Competitive Salary,21,3
+Junior Dotnet Developer + Data Engineer,Kanerika Software Private Limited, Hyderabad,Competitive Salary,21,3
+Python Developer,Chiselon Technologies Pvt Ltd,Anantapur,3000000,21,7
+Python Developer,Chiselon Technologies Pvt Ltd, Hyderabad,3000000,21,7
+Python Developer,Chiselon Technologies Pvt Ltd, Bangalore,3000000,21,7
+Technical Support Engineer,Intertec Softwares Pvt Ltd,Unknown,Competitive Salary,21,3
+Assistant Manager - Microbiology,Aceto Pharma (India) Private Ltd.,Ahmedabad,850000,21,6
+DG SS Engineer,Jio,Navi Mumbai,Competitive Salary,21,3
+DG SS Engineer,Jio, Mumbai,Competitive Salary,21,3
+Shift Manager,Jio,Navi Mumbai,Competitive Salary,21,8
+Shift Manager,Jio, Mumbai,Competitive Salary,21,8
+Solution Engineer,NETSACH GLOBAL,Hyderabad,Competitive Salary,21,8
+Solution Engineer,NETSACH GLOBAL, Bangalore,Competitive Salary,21,8
+Cloud Presales Consultant - Azure & AWS,Intertec Softwares Pvt Ltd,Unknown,Competitive Salary,21,8
+Full Stack Developer,Interned.in,Mumbai,Competitive Salary,21,2
+Desktop & Network Support Engineer,EIL Global IT Solutions And Services Pvt Ltd,Christchurch (New Zealand),Competitive Salary,21,2
+Desktop & Network Support Engineer,EIL Global IT Solutions And Services Pvt Ltd, Auckland (New Zealand),Competitive Salary,21,2
+Desktop & Network Support Engineer,EIL Global IT Solutions And Services Pvt Ltd, Wellington (New Zealand),Competitive Salary,21,2
+Desktop & Network Support Engineer,EIL Global IT Solutions And Services Pvt Ltd, Dunedin (New Zealand),Competitive Salary,21,2
+Desktop & Network Support Engineer,EIL Global IT Solutions And Services Pvt Ltd, Hamilton (New Zealand),Competitive Salary,21,2
+Desktop & Network Support Engineer,EIL Global IT Solutions And Services Pvt Ltd, Napier (New Zealand),Competitive Salary,21,2
+Desktop & Network Support Engineer,EIL Global IT Solutions And Services Pvt Ltd, Invercargill (New Zealand),Competitive Salary,21,2
+AJO Developer,ALIQAN Technologies,Work from home,Competitive Salary,21,3
+SME - Mechanical (Data Centre),Jio,Jamnagar,Competitive Salary,21,10
+SME - Mechanical (Data Centre),Jio, Navi Mumbai,Competitive Salary,21,10
+SME - Mechanical (Data Centre),Jio, Mumbai,Competitive Salary,21,10
+Php Lead,ALIQAN Technologies,Unknown,Competitive Salary,21,9
+Data Architect - AEP,INTINERI INFOSOL PRIVATE LIMITED,Work from home,1800000,21,7
+Senior PHP Developer,ALIQAN Technologies,Bangalore,1500000,21,9
+SEO Content Writer,Sunrise Remedies Pvt. Ltd.,Ahmedabad,Competitive Salary,21,1
+Technical Specialist - Windows Admin - L3,Intertec Softwares Pvt Ltd,Indore,Competitive Salary,21,10
+Senior App Engg - Backend Engineer,ALIQAN Technologies,Pune,Competitive Salary,21,6
+Senior App Engg - Backend Engineer,ALIQAN Technologies, Bangalore,Competitive Salary,21,6
+Artificial Intelligence Engineer,Kiash Solutions LLP,Chennai,1250000,21,4
+Artificial Intelligence Engineer,Kiash Solutions LLP, Hyderabad,1250000,21,4
+Artificial Intelligence Engineer,Kiash Solutions LLP, Bangalore,1250000,21,4
+Senior Engineer Blockchain Infrastructure - REMOTE,Bharat Business Innovations Pvt Ltd,Work from home,4500000,21,10
+Head Of Security RMOTE,Bharat Business Innovations Pvt Ltd,Work from home,8500000,21,10
+REMOTE - Senior Engineer- Trading,Bharat Business Innovations Pvt Ltd,Work from home,4500000,21,10
+Data Engineer,Jio,Gurgaon,Competitive Salary,21,5
+Data Engineer,Jio, Mumbai,Competitive Salary,21,5
+Data Engineer,Jio, Bangalore,Competitive Salary,21,5
+Python Automation Developer,NETSACH GLOBAL,Bangalore,Competitive Salary,21,4
+Jr. Java Developer,Xomic Infotech Private Limited,Ahmedabad,510000,21,1
+L1 IT & Network Engineer,NETSACH GLOBAL,Bangalore,Competitive Salary,21,3
+DevOps Engineer ~ REMOTE,Bharat Business Innovations Pvt Ltd,Work from home,4250000,21,5
+Python Developer,ALIQAN Technologies,Unknown,Competitive Salary,21,5
+Azure Cloud Security Engineer - Sentinel,Jio,Navi Mumbai,Competitive Salary,21,4
+Python Developer,ALIQAN Technologies,Bangalore,1500000,21,5
+Python (Programming Language),ALIQAN Technologies,Bangalore,1500000,21,5
+Assistant Manager - Incoming Packaging Testing,Suntara Cosmetics Private Limited,Ahmedabad,750000,21,4
+Assistant Manager - Incoming Packaging Testing,Suntara Cosmetics Private Limited, Kheda,750000,21,4
+Python Developer,ALIQAN Technologies,Bangalore,Competitive Salary,21,5
+Python Developer,ALIQAN Technologies,Pune,2400000,21,5
+Python Developer,ALIQAN Technologies, Mumbai,2400000,21,5
+Microsoft Dynamics 365 F&O Functional Consultant,NETSACH GLOBAL,Bangalore,Competitive Salary,21,10
+VM Ware & Windows,Jio,Navi Mumbai,Competitive Salary,21,10
+VM Ware & Windows,Jio, Mumbai,Competitive Salary,21,10
+Human Resources Executive,HRingZa Solutions,Rajkot,270000,21,1
+Oracle BRM Architect,NETSACH GLOBAL,Bangalore,Competitive Salary,21,10
+Oracle BRM Developer,NETSACH GLOBAL,Bangalore,Competitive Salary,21,4
+SAP ABAP,ALIQAN Technologies,Bangalore,1080000,21,7
+Laravel Developer,NCode Technologies Inc.,Ahmedabad,390000,21,3
+Technical Product Manager (Insurance Product),Intertec Softwares Pvt Ltd,Unknown,Competitive Salary,21,8
+Senior ZOHO Developer,Techvaria,Unknown,Competitive Salary,21,3
+Technical Support Engineer,Intertec Softwares Pvt Ltd,Navi Mumbai,Competitive Salary,21,2
+Senior Data Engineer,Jio,Mumbai,Competitive Salary,21,7
+WordPress Developer,Colan Infotech Private Limited,Chennai,Competitive Salary,21,3
+SAP Technical Architect,Kiash Solutions LLP,Chennai,2850000,21,8
+SAP Technical Architect,Kiash Solutions LLP, Hyderabad,2850000,21,8
+SAP Technical Architect,Kiash Solutions LLP, Bangalore,2850000,21,8
+React Developer,ALIQAN Technologies,Pune,Competitive Salary,21,5
+ServiceNow Developer,CDM Smith,Chennai,Competitive Salary,21,5
+ServiceNow Developer,CDM Smith, Pune,Competitive Salary,21,5
+Sr. Java Developer,NETSACH GLOBAL,Bangalore,Competitive Salary,21,6
+PHP Developer,ALIQAN Technologies,Bangalore,2700000,21,8
+SEO Executive,ProManage IT Solutions,Delhi,Competitive Salary,21,0
+SEO Executive,ProManage IT Solutions, Ghaziabad,Competitive Salary,21,0
+SEO Executive,ProManage IT Solutions, Gurgaon,Competitive Salary,21,0
+SEO Executive,ProManage IT Solutions, Noida,Competitive Salary,21,0
+Performance Test Engineer,ALIQAN Technologies,Unknown,Competitive Salary,21,7
+Power Automate,ALIQAN Technologies,Bangalore,Competitive Salary,21,6
+Technical Specialist - Windows,Intertec Softwares Pvt Ltd,Unknown,Competitive Salary,21,7
+Java Developer,NETSACH GLOBAL,Bangalore,Competitive Salary,21,6
+Solution Architect -Cloud Lead - Technical Lead,Jio,Delhi,Competitive Salary,21,13
+Eagle Star QC Analyst,Kiash Solutions LLP,Pune,1400000,21,3
+Eagle Star QC Analyst,Kiash Solutions LLP, Mumbai,1400000,21,3
+Sr. Java Developer,Xomic Infotech Private Limited,Ahmedabad,510000,21,2
+Senior Network Security Engineer - F5/Firewall,Intertec Softwares Pvt Ltd,Unknown,Competitive Salary,21,7
+Cyber Security Engineer - L2(Immediate Joiner),Intertec Softwares Pvt Ltd,Unknown,Competitive Salary,21,7
+Quality Assurance Automation Engineer,Chiselon Technologies Pvt Ltd,Hyderabad,Competitive Salary,21,7
+Quality Assurance Automation Engineer,Chiselon Technologies Pvt Ltd, Addanki,Competitive Salary,21,7
+Senior End User Support,Intertec Softwares Pvt Ltd,Unknown,Competitive Salary,21,5
+Network & Security Engineer,Intertec Softwares Pvt Ltd,Unknown,Competitive Salary,21,6
+NEET Content Reviewer  Physics/Chemistry/Biology,Matrix Smart Learning,Coimbatore,Competitive Salary,21,0
+Senior Data Engineer (Snowflake),Crazy Solutions,Work from home,1900000,21,5
+Tableau Developer,Crazy Solutions,Work from home,1150000,21,5
+Okta Identity Cloud,Versatile Commerce,Unknown,Competitive Salary,21,5
+Peoplesoft FSCM Technical Consultant/Developer,Kiash Solutions LLP,Chennai,1650000,21,3
+Peoplesoft FSCM Technical Consultant/Developer,Kiash Solutions LLP, Hyderabad,1650000,21,3
+Peoplesoft FSCM Technical Consultant/Developer,Kiash Solutions LLP, Bangalore,1650000,21,3
+Solution Architect  App Modernization (GCP),I4 Consulting : Reimagining HR Blueprints,Chennai,5250000,21,12
+Solution Architect  App Modernization (GCP),I4 Consulting : Reimagining HR Blueprints, Kolkata,5250000,21,12
+Solution Architect  App Modernization (GCP),I4 Consulting : Reimagining HR Blueprints, Hyderabad,5250000,21,12
+Solution Architect  App Modernization (GCP),I4 Consulting : Reimagining HR Blueprints, Mumbai,5250000,21,12
+Solution Architect  App Modernization (GCP),I4 Consulting : Reimagining HR Blueprints, Bangalore,5250000,21,12
+Python Developer,Nexus Jobs,Mohali,1250000,21,3
+.NET Framework,True Blue HR Consultants,Bangalore,Competitive Salary,21,5
+Enterprise Compute Sales Specialist,Cygnus Technologies Private Limited,Unknown,Competitive Salary,21,5
+Practice Consultant - Cloud,Intertec Softwares Pvt Ltd,Unknown,Competitive Salary,21,10
+SAP FICO Consultant,Kiash Solutions LLP,Chennai,3050000,21,9
+SAP FICO Consultant,Kiash Solutions LLP, Hyderabad,3050000,21,9
+SAP FICO Consultant,Kiash Solutions LLP, Bangalore,3050000,21,9
+Senior Data Engineer - Azure,True Blue HR Consultants,Bangalore,1750000,21,4
+AI/ML Engineer,Admin Looks,Mumbai,1860000,21,12
+Hadoop Administration,Jio,Navi Mumbai,Competitive Salary,21,2
+Hadoop Administration,Jio, Mumbai,Competitive Salary,21,2
+.NET Developer,Versatile Commerce,Hyderabad,Competitive Salary,21,9
+Backup & Storage Engineer,Intertec Softwares Pvt Ltd,Indore,Competitive Salary,21,4
+Co-Founder With Investment,SPARC STUDIO,Bangalore,1500000,21,4
+SEO Manager,LogicGo Infotech,Surat,Competitive Salary,21,2
+Python Fullstack Developer_Charni Road (Girgaon),Sir H.N. Reliance Foundation Hospital & Research Centre,Mumbai,Competitive Salary,21,3
+Lead - Salesforce Financial Cloud,Kiash Solutions LLP,Chennai,4500000,21,7
+Lead - Salesforce Financial Cloud,Kiash Solutions LLP, Hyderabad,4500000,21,7
+UI Automation,NETSACH GLOBAL,Bangalore,Competitive Salary,21,4
+Python Developer,Techvaria,Unknown,Competitive Salary,21,4
+Business Analyst Trainee,Techvaria,Unknown,Competitive Salary,21,0
+QA Tester,Kiash Solutions LLP,Vadodara,675000,21,4
+IT Bsuiness Developer,Web Idea Solution LLP,Kolkata,600000,21,1
+Automation Anywhere,INTINERI INFOSOL PRIVATE LIMITED,Work from home,1320000,21,7
+Vmware + Windows + NSX,Jio,Chennai,700000,21,4
+Node.js  Developer,Jio,Mumbai,800000,21,4
+WiFi Engineers,Jio,Mumbai,Competitive Salary,21,4
+Junior Third-Party Risk Assessor,NETSACH GLOBAL,Bangalore,Competitive Salary,21,4
+Python Developer,Nexus Jobs,Mohali,1100000,21,4
+Golang Developer,Chiselon Technologies Pvt Ltd,Bangalore,Competitive Salary,21,4
+DBA Engineer,Chiselon Technologies Pvt Ltd,Bangalore,Competitive Salary,21,4
+Senior Sap MM Consultant,INTINERI INFOSOL PRIVATE LIMITED,Pune,1150000,21,7
+Python Developer,Nexus Jobs,Jaipur,1400000,21,4
+Golang Developer L Ahmedabad,Vedlogic Solutions Pvt. Ltd.,Ahmedabad,780000,21,4
+Technical Support Engineer (Monitoring),Intertec Softwares Pvt Ltd,Indore,550000,21,4
+Service Desk Engineer,Intertec Softwares Pvt Ltd,Unknown,Competitive Salary,21,4
+SEO - Fresher - Ahmedabad,V3Cube,Ahmedabad,Competitive Salary,21,0
+Tableau Developers,INTINERI INFOSOL PRIVATE LIMITED,Work from home,1020000,21,4
+Flutter Developer,Wings Global Services,Amritsar,850000,21,1
+Flutter Developer,Wings Global Services, Gurgaon,850000,21,1
+Flutter Developer,Wings Global Services, Jalandhar,850000,21,1
+Flutter Developer,Wings Global Services, Shimla,850000,21,1
+Laravel PHP Developer,Wings Global Services,Amritsar,850000,21,1
+Laravel PHP Developer,Wings Global Services, Chandigarh,850000,21,1
+Laravel PHP Developer,Wings Global Services, Gurgaon,850000,21,1
+Laravel PHP Developer,Wings Global Services, Jalandhar,850000,21,1
+Laravel PHP Developer,Wings Global Services, Shimla,850000,21,1
+Python Developer,Nexus Jobs,Mohali,1000000,21,4
+UX Designer_ Bangalore,True Blue HR Consultants,Bangalore,1750000,21,4
+Application Developer  Cloud FullStack,ALIQAN Technologies,Unknown,Competitive Salary,21,7
+JAVA React Full Stack Engineers,Chiselon Technologies Pvt Ltd,Gurgaon,Competitive Salary,21,4
+Python Developer,Wings Global Services,Amritsar,900000,21,1
+Python Developer,Wings Global Services, Chandigarh,900000,21,1
+Python Developer,Wings Global Services, Gurgaon,900000,21,1
+Python Developer,Wings Global Services, Jalandhar,900000,21,1
+Python Developer,Wings Global Services, Shimla,900000,21,1
+Java Developer,ALIQAN Technologies,Chennai,1320000,21,7
+Java Developer,ALIQAN Technologies, Pune,1320000,21,7
+Java Developer,ALIQAN Technologies, Hyderabad,1320000,21,7
+Java Developer,ALIQAN Technologies, Mumbai,1320000,21,7
+Java Developer,ALIQAN Technologies, Bangalore,1320000,21,7
+Deveops Engineer,Wings Global Services,Chandigarh,900000,21,1
+Deveops Engineer,Wings Global Services, Gurgaon,900000,21,1
+Deveops Engineer,Wings Global Services, Jalandhar,900000,21,1
+Deveops Engineer,Wings Global Services, Shimla,900000,21,1
+Security & DevOps Support Engineer - (ERT),NETSACH GLOBAL,Bangalore,Competitive Salary,21,4
+Python Developer,ALIQAN Technologies,Bangalore,Competitive Salary,21,7
+Cloud Engineer,Chiselon Technologies Pvt Ltd,Bangalore,Competitive Salary,21,4
+Power Automate Developer,ALIQAN Technologies,Unknown,Competitive Salary,21,7
+Performance Test Engineer,ALIQAN Technologies,Bangalore,1680000,21,7
+Project Coordinator,Ultrafly Solutions Private Limited,Coimbatore,Competitive Salary,21,1
+Kafka Admin,ALIQAN Technologies,Chennai,Competitive Salary,21,4
+Kafka Admin,ALIQAN Technologies, Pune,Competitive Salary,21,4
+Kafka Admin,ALIQAN Technologies, Bangalore,Competitive Salary,21,4
+Power Automate Developer,ALIQAN Technologies,Bangalore,Competitive Salary,21,7
+Angular Developer,Classic Art,Rajkot,480000,21,1
+Trainee Software Engineer,Intertec Softwares Pvt Ltd,Work from home,Competitive Salary,21,0
+Business Analyst Trainee,Techvaria,Unknown,270000,21,0
+PHP Developer,ALIQAN Technologies,Bangalore,Competitive Salary,21,7
+AI ML Engineer,Chiselon Technologies Pvt Ltd,Chennai,Competitive Salary,21,4
+Data Engineer,Chiselon Technologies Pvt Ltd,Chennai,Competitive Salary,21,4
+Intermediate Backend Java Development Resource,NETSACH GLOBAL,Bangalore,Competitive Salary,21,7
+Intermediate Full Stack Development Resource,NETSACH GLOBAL,Bangalore,Competitive Salary,21,4
+Senior Full Stack Developer,NETSACH GLOBAL,Bangalore,Competitive Salary,21,7
+Software Developer,Nexus Jobs,Jaipur,288000,21,1
+Power BI Architect,Chiselon Technologies Pvt Ltd,Chennai,Competitive Salary,21,7
+Full Stack Developer (.Net With AWS),Crazy Solutions,Work from home,1300000,21,4
+Hiring Freshers (Sales & Marketing) - Remote,Crazy Solutions,Work from home,Competitive Salary,21,0
+Sales Development Representative - Remote,Crazy Solutions,Work from home,Competitive Salary,21,0
+Telecaller - Remote,Crazy Solutions,Work from home,Competitive Salary,21,0
+Software Engineer,Money Honey Financial Services Private Limited,Unknown,Competitive Salary,21,4
+Full Stack Developer - Senior,Refining Skills Academy,Surat,1800000,21,7
+Desktop Support Specialist,EIL Global IT Solutions And Services Pvt Ltd,Brisbane (Australia),Competitive Salary,21,4
+Desktop Support Specialist,EIL Global IT Solutions And Services Pvt Ltd, Ipswich (Australia),Competitive Salary,21,4
+Desktop Support Specialist,EIL Global IT Solutions And Services Pvt Ltd, Gladstone (Australia),Competitive Salary,21,4
+Desktop Support Specialist,EIL Global IT Solutions And Services Pvt Ltd, Yeppoon (Australia),Competitive Salary,21,4
+Desktop Support Specialist,EIL Global IT Solutions And Services Pvt Ltd, Logan City (Australia),Competitive Salary,21,4
+TechnoFunctional Consultant (ContactCenters),Intertec Softwares Pvt Ltd,Mumbai,Competitive Salary,21,7
+Python Developer,NETSACH GLOBAL,Bangalore,Competitive Salary,21,4
+IOS Development,Dark Starss,Thane,475000,21,1
+IOS Development,Dark Starss, Mumbai,475000,21,1
+Senior SEO Specialist,Nexus Jobs,Jaipur,420000,21,4
+Technician Electrician - Utility,Jio,Navi Mumbai,Competitive Salary,21,4
+Technician Electrician - Utility,Jio, Mumbai,Competitive Salary,21,4
+SAP GTS Consultant,Kiash Solutions LLP,Chennai,2000000,21,7
+SAP GTS Consultant,Kiash Solutions LLP, Hyderabad,2000000,21,7
+SAP GTS Consultant,Kiash Solutions LLP, Bangalore,2000000,21,7
+React Native Developer,Versatile Commerce,Hyderabad,Competitive Salary,21,1
+Power BI Consultant,NETSACH GLOBAL,Bangalore,Competitive Salary,21,4
+Jr. Database Developer,Xomic Infotech Private Limited,Ahmedabad,300000,21,1
+Quality Assurance Engineer,Troopr.ai,Work from home,775000,21,1
