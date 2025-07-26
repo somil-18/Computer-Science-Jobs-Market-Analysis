@@ -48,7 +48,7 @@ Computer Science Jobs Market Analysis
 ## 🚀 How to Run the Project
 
 1. **Clone the repository**:
-   ```
+```
    git clone https://github.com/somil-18/Computer-Science-Jobs-Market-Analysis.git
    cd Computer-Science-Jobs-Market-Analysis
    ```
@@ -89,7 +89,5 @@ This project is created solely for **educational and academic purposes**.
 - All job data was scraped from publicly available job listings on [Internshala](https://internshala.com/jobs/computer-science-jobs/page-1/).
 - No confidential or paid data sources were used.
 - The data may change over time and does not represent real-time job listings.
-- Use of this project or its data is at your own discretion.
-
 
 
