@@ -58,7 +58,7 @@ Computer Science Jobs Market Analysis
 pip install -r requirements.txt
    ```
 
-3. **IRun the notebook:**
+3. **Run the notebook:**
  ```
 jupyter notebook CS_Job_Market_Analysis.ipynb
    ```
