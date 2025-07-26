@@ -65,7 +65,7 @@ jupyter notebook CS_Job_Market_Analysis.ipynb
 
 4. **View the report:**
 
-Open [Project Report.pdf](Project-Report.pdf) for a summary of the project.
+Open [Project-Report.pdf](Project-Report.pdf) for a summary of the project.
 
 ---
 
