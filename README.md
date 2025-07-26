@@ -41,7 +41,7 @@ Computer Science Jobs Market Analysis
 - **Pandas** – for data manipulation
 - **Matplotlib** and **Seaborn** – for visualization
 - **Jupyter Notebook** – for interactive analysis
-- **MS Word / LaTeX / PDF** – for the final project report
+- **MS Word** – for the final project report
 
 ---
 
