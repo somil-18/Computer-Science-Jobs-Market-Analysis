@@ -16,7 +16,7 @@ Computer Science Jobs Market Analysis
 ├── CS_Job_Market_Analysis.ipynb                  # Jupyter Notebook with full analysis
 ├── scraped_jobs.csv                              # Raw scraped job data
 ├── cleaned_internshala_data.csv                  # Cleaned and processed data
-├── Internshala_Job_Analysis_Report.pdf           # Final project report (PDF)
+├── Project Report.pdf                            # Final project report (PDF)
 ├── requirements.txt                              # Python dependencies
 └── README.md                                     # Project documentation
 ```
@@ -65,7 +65,7 @@ jupyter notebook CS_Job_Market_Analysis.ipynb
 
 4. **View the report:**
 
-Open [Project-Report.pdf](Project-Report.pdf) for a summary of the project.
+Open [Project Report.pdf](Project-Report.pdf) for a summary of the project.
 
 ---
 
