@@ -84,7 +84,7 @@ I’d love to connect!
 
 ## ⚠️ Disclaimer
 
-This project is created solely for **educational and academic purposes**.
+This project is created for **educational and academic purposes**.
 
 - All job data was scraped from publicly available job listings on [Internshala](https://internshala.com/jobs/computer-science-jobs/page-1/).
 - No confidential or paid data sources were used.
