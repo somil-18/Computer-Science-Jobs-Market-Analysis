@@ -8,11 +8,7 @@ This project presents an end-to-end data science workflow applied to job listing
 
 ```
 Computer Science Jobs Market Analysis
-├── HTMLs/
-│ ├── page1.html
-│ ├── page2.html
-│ ├── ...
-│ └── page20.html
+├── HTMLs/                                        # scraped HTMLs
 ├── CS_Job_Market_Analysis.ipynb                  # Jupyter Notebook with full analysis
 ├── scraped_jobs.csv                              # Raw scraped job data
 ├── cleaned_internshala_data.csv                  # Cleaned and processed data
