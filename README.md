@@ -71,7 +71,7 @@ If you have any questions, suggestions, or would like to collaborate, feel free 
 
 - **Name**: Somil Dogra  
 - **GitHub**: [somil-18](https://github.com/somil-18)  
-- **Email**: dograsomil@gmail.com
+- **Email**: dograsomil03@gmail.com
 - **LinkedIn**: [linkedin.com/in/somil-dogra](https://www.linkedin.com/in/somil-dogra-463435329/)
 
 I’d love to connect!
